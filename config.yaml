@@ -1,0 +1,5 @@
+options:
+   message:
+      type: string
+      description: Message to be reported in the unit's status
+      default: ''

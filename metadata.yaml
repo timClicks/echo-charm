@@ -1,0 +1,14 @@
+name: echo
+summary: An educational charm that repeats config in status 
+maintainers:
+    - Tim McNamara <tsm@canonical.com>
+description: |
+    An educational charm for demonstrating hooks. Changing 
+    the config values changes the status output.
+tags:
+    - misc
+    - training
+series:
+    - focal
+    - bionic
+
